@@ -17,7 +17,7 @@ $${\LARGE\textsf{\textcolor{#48DA79}{당신의}  \textcolor{#48DA79}{면접에} 
 ### 🌐서비스 주소 [kiwing.kr](https://www.kiwing.kr/)
 #### 🌐데모 주소 [kiwing.shop](https://kiwing.shop/) 
 
-<!--##### [🌐도메인 만료 시 서비스 URL]()-->
+##### [🌐도메인 만료 시 서비스 URL](https://kiwing.vercel.app/)
 
 ---
 
