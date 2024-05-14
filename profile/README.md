@@ -21,6 +21,9 @@ $${\LARGE\textsf{\textcolor{#48DA79}{당신의}  \textcolor{#48DA79}{면접에} 
 
 ---
 
+## 기술 스택
+![Web App Reference Architecture (5)](https://github.com/Team-kiwing/.github/assets/90549862/a94aba5b-7077-4c81-a0cb-0b61f57e6e3d)
+
 
 ## 👨‍👩‍👦‍👦팀원 소개
 ### 🛠️ FE 팀원
